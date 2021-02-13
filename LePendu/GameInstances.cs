@@ -18,7 +18,7 @@ namespace LePendu
         private string currentWordGuessed;
         
         
-        public GameInstance(int maxErrors = 10)
+        public GameInstances(int maxErrors = 10)
         {
             rnd = new Random();
             MaxErrors = maxErrors;
@@ -32,13 +32,19 @@ namespace LePendu
             Guesses = new List<char>();
             Misses = new List<char>();
             wordToGuess = Words[rnd.Next(0, Words.Count)];
+            rnd = new Random();
+            MaxErrors = maxErrors;
+            wordToGuess = Words[rnd.Next(0, Words.Count)];
             Console.Write("Le mot à deviner contiend ");
             Console.BackgroundColor = ConsoleColor.Red;
             Console.Write(wordToGuess.Length);
-            // Console.ForegroundColor = ConsoleColor.White;
+            Console.ResetColor();
+            //Console.Clear();
+            Console.BackgroundColor = ConsoleColor.White;
             Console.WriteLine(" lettres");
+            Console.WriteLine("red", Konsole.CharacterAttributes.FOREGROUND_RED);
         }
-        public GameInstance(List<Word> words,int maxErrors = 10)
+        public GameInstances(List<Word> words,int maxErrors = 10)
         {
             rnd = new Random();
             MaxErrors = maxErrors;
@@ -46,16 +52,6 @@ namespace LePendu
             Guesses = new List<char>();
             Misses = new List<char>();
             wordToGuess = Words[rnd.Next(0, Words.Count)];
-            //Console.Write("Le mot à deviner contiend ");
-            //Console.BackgroundColor = ConsoleColor.Red;
-            //Console.Write(wordToGuess.Length);
-            //Console.ResetColor();
-            //Console.Clear();
-            //Console.BackgroundColor = ConsoleColor.Black;
-            Console.WriteLine(" blabla");
-            //Console.WriteLine(" lettres");
-            
-            //Console.WriteLine("red", Konsole.CharacterAttributes.FOREGROUND_RED);
             
         }
     }
