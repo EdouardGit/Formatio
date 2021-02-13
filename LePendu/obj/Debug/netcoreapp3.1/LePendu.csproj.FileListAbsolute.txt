@@ -1,0 +1,13 @@
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\obj\Debug\netcoreapp3.1\LePendu.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\obj\Debug\netcoreapp3.1\LePendu.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\obj\Debug\netcoreapp3.1\LePendu.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\obj\Debug\netcoreapp3.1\LePendu.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\bin\Debug\netcoreapp3.1\LePendu.exe
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\bin\Debug\netcoreapp3.1\LePendu.deps.json
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\bin\Debug\netcoreapp3.1\LePendu.runtimeconfig.json
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\bin\Debug\netcoreapp3.1\LePendu.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\bin\Debug\netcoreapp3.1\LePendu.dll
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\bin\Debug\netcoreapp3.1\LePendu.pdb
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\obj\Debug\netcoreapp3.1\LePendu.dll
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\obj\Debug\netcoreapp3.1\LePendu.pdb
+\\vmware-host\Shared Folders\Edouard sur mon Mac\Google Drive\Day To Day\My Work\Formations Informatique\TechnoFutur\C# Base\MaPremiereApplication\LePendu\LePendu\obj\Debug\netcoreapp3.1\LePendu.genruntimeconfig.cache
