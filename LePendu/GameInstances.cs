@@ -42,7 +42,6 @@ namespace LePendu
             //Console.Clear();
             Console.BackgroundColor = ConsoleColor.White;
             Console.WriteLine(" lettres");
-            Console.WriteLine("red", Konsole.CharacterAttributes.FOREGROUND_RED);
         }
         public GameInstances(List<Word> words,int maxErrors = 10)
         {
